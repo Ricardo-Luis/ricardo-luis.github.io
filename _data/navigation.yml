@@ -12,6 +12,9 @@ main:
   - title: "Alumni"
     url: /students/
     
+  - title: "Portfolio"
+    url: /portfolio/
+    
   - title: "Research"
     url: /research/
         
