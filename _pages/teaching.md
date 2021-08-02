@@ -6,4 +6,4 @@ author_profile: true
 ---
 
 
-[Gteste](/toast.html)
+[Gteste](/teaching/toast.html)
