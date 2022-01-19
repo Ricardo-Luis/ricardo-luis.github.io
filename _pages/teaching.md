@@ -9,7 +9,7 @@ author_profile: true
 Licenciatura em Engenharia Eletrotécnica, 5º Semestre
 
 **Sistemas de Armazenamento de Energia (SAE)**\
-módulos: ultracondensadores, baterias secundárias\
+módulos: _ultracondensadores_, _baterias secundárias_\
 Mestrado em Engenharia Eletrotécnica, 2º Semestre
 
 **Projeto de Máquinas Elétricas**\
