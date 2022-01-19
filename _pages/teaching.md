@@ -6,14 +6,14 @@ author_profile: true
 ---
 
 
-🎓 **Máquinas Elétricas 2 (ME2)**\
-Licenciatura em Engenharia Eletrotécnica, 5º Semestre
+🎓 **Electric Machinery 2**\
+BSc in Electrical Engineering, 5^{th} semester
 
-🎓 **Sistemas de Armazenamento de Energia (SAE)**\
-módulos: _ultracondensadores_, _baterias secundárias_\
-Mestrado em Engenharia Eletrotécnica, 2º Semestre
+🎓 **Energy Storage Systems**\
+Sections: _ultracapacitors_, _secondary batteries_\
+MSc in Electrical Engineering, 2^{nd} semester
 
 🎓 **Projeto de Máquinas Elétricas (PME)**\
-Mestrado em Engenharia Eletrotécnica, 3º Semestre
+MS in Electrical Engineering, 3^{rd} semester
 
 
