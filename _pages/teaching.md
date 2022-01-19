@@ -12,7 +12,7 @@ Licenciatura em Engenharia Eletrotécnica, 5º Semestre
 módulos: _ultracondensadores_, _baterias secundárias_\
 Mestrado em Engenharia Eletrotécnica, 2º Semestre
 
-**Projeto de Máquinas Elétricas**\
+**Projeto de Máquinas Elétricas (PME)**\
 Mestrado em Engenharia Eletrotécnica, 3º Semestre
 
 
