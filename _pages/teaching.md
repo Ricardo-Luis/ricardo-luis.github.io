@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Courses 
+# Courses 
 
 🎓 **Máquinas Elétricas 2 (ME2)**\
 Licenciatura em Engenharia Eletrotécnica, 5º Semestre
