@@ -5,14 +5,14 @@ permalink: /teaching/
 author_profile: true
 ---
 
-**Máquinas Elétricas 2 (ME2)**\
+🎓 **Máquinas Elétricas 2 (ME2)**\
 Licenciatura em Engenharia Eletrotécnica, 5º Semestre
 
-**Sistemas de Armazenamento de Energia (SAE)**\
+🎓 **Sistemas de Armazenamento de Energia (SAE)**\
 módulos: _ultracondensadores_, _baterias secundárias_\
 Mestrado em Engenharia Eletrotécnica, 2º Semestre
 
-**Projeto de Máquinas Elétricas (PME)**\
+🎓 **Projeto de Máquinas Elétricas (PME)**\
 Mestrado em Engenharia Eletrotécnica, 3º Semestre
 
 
