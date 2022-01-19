@@ -68,6 +68,10 @@ BSc Diss. in Electrical Engineering - Automation and Control\
 Faculty of Electronics, Vilnius Gediminas Technical University
 
 ## Former BSc students, Erasmus traineeship
+Tomáš Pitner, "_Implementation of control methods and industrial communication protocols for power electronic converters using ARM-based microcontrollers_", internship theme, ISEL/DEEEA/LCEC, sep.-nov. 2021\
+Electronic engineering\
+Faculty of Electrical Engineering and Communications, Brno University of Technology
+
 Michele Pavesi, "_Desenvolvimento de protocolos de comunicação industriais suportados por FPGA de baixo custo_", internship theme, ISEL/ADEEEA/LCEC, mar.-jun. 2018\
 Electronic engineering\
 Department of Electronics and Telecommunications, Politecnico di Torino
