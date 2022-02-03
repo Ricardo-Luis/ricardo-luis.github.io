@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-🎓 [**Electric Machinery I**](https://www.isel.pt/en/lee/electric-machinery-I)\
+🎓 [**Electric Machinery I**](https://www.isel.pt/en/lee/electric-machinery-i)\
 Laboratory lectures
 BSc in Electrical Engineering, $$4^{th}$$ semester
 
