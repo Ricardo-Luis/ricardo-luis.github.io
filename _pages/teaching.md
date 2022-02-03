@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 🎓 [**Electric Machinery I**](https://www.isel.pt/en/lee/electric-machinery-i)\
-Laboratory lectures
+Laboratory lectures\
 BSc in Electrical Engineering, $$4^{th}$$ semester
 
 🎓 [**Electric Machinery II**](https://www.isel.pt/en/lee/electric-machinery-II)\
