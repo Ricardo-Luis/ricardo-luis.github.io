@@ -5,7 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<i class="fas fa-graduation-cap"></i> [**Electric Machinery I**](https://www.isel.pt/en/lee/electric-machinery-i)\
+<li>
+<i class="fa fa-university"></i>  [**Electric Machinery I**](https://www.isel.pt/en/lee/electric-machinery-i)\
+</li>
 Laboratory lectures\
 BSc in Electrical Engineering, $$4^{th}$$ semester
 
