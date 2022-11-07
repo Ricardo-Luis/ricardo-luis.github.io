@@ -10,8 +10,8 @@ Laboratory lectures\
 BSc in Electrical Engineering, $$4^{th}$$ semester
 
 <i class="fas fa-graduation-cap"></i> [**Electric Machinery II**](https://www.isel.pt/en/lee/electric-machinery-II)\
-BSc in Electrical Engineering, $$5^{th}$$ semester
-[🎈 Notebooks about Electric Machines II (*in Portuguese*)](https://ricardo-luis.github.io/me2/)
+BSc in Electrical Engineering, $$5^{th}$$ semester\
+[🎈 Notebooks about Electric Machines II (*in Portuguese*)](https://ricardo-luis.github.io/me2/)\
 
 <i class="fas fa-graduation-cap"></i> [**Energy Storage Systems**](https://www.isel.pt/en/mee-e/energy-storage-systems)\
 Sections: _ultracapacitors_, _secondary batteries_\
