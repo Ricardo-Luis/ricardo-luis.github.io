@@ -11,7 +11,7 @@ author_profile: true
 Visit my academic profile: [Google Scholar](https://scholar.google.com/citations?hl=pt-PT&user=7xVeWacAAAAJ)
 
 ## PhD thesis
-"_Gerador de Velocidade Variável para Aumento da Eficiência Energética em Grupos Eletrogéneos Autónomos_", July 2015\
+"[_Gerador de Velocidade Variável para Aumento da Eficiência Energética em Grupos Eletrogéneos Autónomos_](https://scholar.tecnico.ulisboa.pt/records/A9Z5gUif0l_MCvL3iqVjSw2WbZYC05v7wiK2)", July 2015\
 Engenharia Eletrotécnica e de Computadores\
 Instituto Superior Técnico, Universidade de Lisboa
 
