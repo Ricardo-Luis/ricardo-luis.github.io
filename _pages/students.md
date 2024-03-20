@@ -6,8 +6,14 @@ author_profile: true
 ---
 
 
-## Former MSc students
+## Former PhD students (as co-advisor)
+Alexandre Bento, "_Open-end Winding Synchronous Reluctance Drive based on Indirect Matrix Converter with Common-mode Voltage Reduction_", Nov. 2023\
+Doutoramento em Engenharia Eletrotécnica e de Computadores\
+Instituto Superior Técnico, Universidade de Lisboa\
+URI: [link to scholar.tecnico.ulisboa](https://scholar.tecnico.ulisboa.pt/records/i35-SI8MF3iFsg4jrPyUm6_Zdr8uzAnq8kNh)
 
+
+## Former MSc students 
 Carlos Paiva, “_Análise de Elementos Finitos de um Acoplador Magnético para Carregador Sem Contacto Dinâmico Aplicado a Veículos Elétricos_”, Nov. 2019\
 Mestrado em Engenharia Eletrotécnica - Ramo Energia\
 Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa\
@@ -28,6 +34,18 @@ Mestrado em Engenharia Eletrotécnica - Ramo Energia\
 Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa\
 URI: [http://hdl.handle.net/10400.21/5938](http://hdl.handle.net/10400.21/5938)
 
+
+## Former MSc students (as co-advisor)
+Gonçalo Oliveira, “_Sistema Multiagente aplicado a Infraestrutura de Carregamento de Veículos Elétricos em Microrrede DC_”, Maio 2023\
+Mestrado em Engenharia Eletrotécnica - Ramo Automação e Electrónica Industrial\
+Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa\
+URI: [http://hdl.handle.net/10400.21/16904](http://hdl.handle.net/10400.21/16904)
+
+Pedro Pereira, "_Descarbonização e otimização energética de um navio hidrográfico através de armazenamento de energia com baterias de iões de lítio_", Dez. 2022\
+Mestrado em Engenharia Eletrotécnica - Ramo Automação e Electrónica Industrial\
+Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa\
+URI: [https://repositorio.ipl.pt/handle/10400.21/16976](https://repositorio.ipl.pt/handle/10400.21/16976)
+
 Luís Agostinho, "_Emulação de um motor de combustão interna através de um accionamento electromecânico de velocidade variável_", Dez. 2014\
 Mestrado em Engenharia Eletrotécnica - Ramo Energia\
 Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa\
@@ -39,12 +57,12 @@ Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa\
 URI: [http://hdl.handle.net/10400.21/2553](http://hdl.handle.net/10400.21/2553)
 
 Nuno Rodeia, "_Desenvolvimento do sistema de tracção de um veículo eléctrico ecológico com travagem regenerativa_", Nov. 2011\
-Mestrado em Engenharia Eletrotécnica - Ramo Automação e Electrónica Industrial
+Mestrado em Engenharia Eletrotécnica - Ramo Automação e Electrónica Industrial\
 Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa\
 URI: [http://hdl.handle.net/10400.21/1245](http://hdl.handle.net/10400.21/1245)
 
 
-## Former BSc students
+## Former BSc students (as co-advisor)
 José Daroeira, Ricardo Rodrigues, "_WiBo – Wireless Bologne: Ferramenta de suporte a interacções na sala de aula_", Projeto e Seminário, ISEL/DEETC, Mar. 2009\
 Engenharia Informática e de Computadores\
 Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa
