@@ -41,7 +41,7 @@ Mestrado em Engenharia Eletrotécnica - Ramo Energia\
 Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa\
 URI: [http://hdl.handle.net/10400.21/17489](http://hdl.handle.net/10400.21/17489)
 
-Bruno Capitão, "_	Three-winding transformer with DC microgrid and active power filter_", Dez. 2023\
+Bruno Capitão, "_Three-winding transformer with DC microgrid and active power filter_", Dez. 2023\
 Mestrado em Engenharia Eletrotécnica - Ramo Automação e Electrónica Industrial\
 Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa\
 URI: [http://hdl.handle.net/10400.21/17491](http://hdl.handle.net/10400.21/17491)
