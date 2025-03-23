@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Ricardo Luís holds a PhD in Electrical and Computer Engineering from [Instituto Superior Técnico](https://tecnico.ulisboa.pt) (IST), Universidade de Lisboa, obtained in 2015.\
+**Ricardo Luís** holds a PhD in Electrical and Computer Engineering from [Instituto Superior Técnico](https://tecnico.ulisboa.pt) (IST), Universidade de Lisboa, obtained in 2015.\
 He is currently an Adjunct Professor in the Electrical Engineering Department at [Instituto Superior de Engenharia de Lisboa](https://www.isel.pt/) (ISEL), Politécnico de Lisboa, where he teaches courses on Electrical Machines (BSc), Energy Storage Systems, and Electrical Machines Design (MSc).\
 His research focuses on electric machines and their role in the future of energy systems, developed within LCEC - [Low Carbon Energy Conversion R&D Group](https://lcec.isel.pt/) (ISEL) — and in collaboration with the [Green Energy and Smart Converters](https://www.inesc-id.pt/research-areas/green-energy-and-smart-converters/) group at INESC-ID Lisboa (IST).
 
