@@ -22,14 +22,14 @@ repository               : "Ricardo-Luis/ricardo-luis.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me_nov23.JPG"
   name             : "Ricardo Luís"
   pronouns         : # example: "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "An electrical engineer focused on electrical machines and the future of energy systems"
   location         : "Lisboa, Portugal"
   employer         : "ISEL, Politécnico de Lisboa"
   uri              : "https://www.isel.pt/"
-  email            : "mailto:ricardo.luis@isel.pt" 
+  email            : "ricardo.luis@isel.pt" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/Ricardo-Luis"
+  github           : "Ricardo-Luis"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/ricardojfluis"
+  linkedin         : "ricardojfluis"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
