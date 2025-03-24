@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Academic Supervision"
+title: "Academic supervision"
 permalink: /students/
 author_profile: true
 ---
