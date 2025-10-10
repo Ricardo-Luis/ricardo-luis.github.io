@@ -12,13 +12,18 @@ Doutoramento em Engenharia Eletrotécnica e de Computadores\
 Instituto Superior Técnico, Universidade de Lisboa\
 [![URL](https://img.shields.io/badge/URL-Scientific%20Repository%20of%20IST%20·%20ULisboa-blue?style=flat&link=https://scholar.tecnico.ulisboa.pt/records/i35-SI8MF3iFsg4jrPyUm6_Zdr8uzAnq8kNh)](https://scholar.tecnico.ulisboa.pt/records/i35-SI8MF3iFsg4jrPyUm6_Zdr8uzAnq8kNh)
 
+---
 
-## Former MSc students 
+## Former MSc students
+**Mauro Fernandes**, "_Integração do sistema de armazenamento de energia por bateria para guindaste RTG diesel híbrido_", dez.2024\
+Mestrado em Engenharia Eletrotécnica - Ramo Energia\
+Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa\
+[![URI](https://img.shields.io/badge/URI-Scientific%20Repository%20of%20Politécnico%20de%20Lisboa-blue?style=flat&link=http://hdl.handle.net/10400.21/22162)](http://hdl.handle.net/10400.21/22162)
+
 **Frederico Cabrita**, "_Estudo de um Transformador Trifásico de Três Enrolamentos através do Método dos Elementos Finitos_", jun. 2023\
 Mestrado em Engenharia Eletrotécnica - Ramo Energia\
 Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa\
 [![URI](https://img.shields.io/badge/URI-Scientific%20Repository%20of%20Politécnico%20de%20Lisboa-blue?style=flat&link=http://hdl.handle.net/10400.21/17735)](http://hdl.handle.net/10400.21/17735)
-
 
 **Carlos Paiva**, “_Análise de Elementos Finitos de um Acoplador Magnético para Carregador Sem Contacto Dinâmico Aplicado a Veículos Elétricos_”, nov. 2019\
 Mestrado em Engenharia Eletrotécnica - Ramo Energia\
@@ -40,8 +45,14 @@ Mestrado em Engenharia Eletrotécnica - Ramo Energia\
 Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa\
 [![URI](https://img.shields.io/badge/URI-Scientific%20Repository%20of%20Politécnico%20de%20Lisboa-blue?style=flat&link=http://hdl.handle.net/10400.21/5938)](http://hdl.handle.net/10400.21/5938)
 
+---
 
 ## Former MSc students (as co-advisor)
+**Derik Soares**, “Sistema produção e armazenamento de hidrogénio verde através de microrrede DC”, dez. 2024\
+Mestrado em Engenharia Eletrotécnica - Ramo Automação e Electrónica Industrial\
+Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa\
+[![URI](https://img.shields.io/badge/URI-Scientific%20Repository%20of%20Politécnico%20de%20Lisboa-blue?style=flat&link=http://hdl.handle.net/10400.21/22161)](http://hdl.handle.net/10400.21/22161)
+
 **Darcy D'Apresentação**, "_Filtro ativo de potência aplicado à rede elétrica a quatro condutores_", dez. 2023\
 Mestrado em Engenharia Eletrotécnica - Ramo Energia\
 Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa\
@@ -77,6 +88,7 @@ Mestrado em Engenharia Eletrotécnica - Ramo Automação e Electrónica Industri
 Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa\
 [![URI](https://img.shields.io/badge/URI-Scientific%20Repository%20of%20Politécnico%20de%20Lisboa-blue?style=flat&link=http://hdl.handle.net/10400.21/1245)](http://hdl.handle.net/10400.21/1245)
 
+---
 
 ## Former BSc students (as co-advisor)
 **José Daroeira**, **Ricardo Rodrigues**, "_WiBo – Wireless Bologne: Ferramenta de suporte a interacções na sala de aula_", Projeto e Seminário, ISEL/DEETC, mar. 2009\
@@ -91,6 +103,7 @@ Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa
 Engenharia Mecânica\
 Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa
 
+---
 
 ## Former BSc Erasmus students
 **Mantas Mickus**, "_Automatic Parallel supervision of synchronous generators_", ISEL/DEEA, maio 2008\
@@ -100,6 +113,8 @@ Faculty of Electronics, Vilnius Gediminas Technical University
 **Pavel Nogtev**, "_Double fed asynchronous induction generator machine_", ISEL/DEEA, maio 2008\
 BSc Diss. in Electrical Engineering - Automation and Control\
 Faculty of Electronics, Vilnius Gediminas Technical University
+
+---
 
 ## Former BSc students, Erasmus traineeship
 **Tomáš Pitner**, "_Implementation of control methods and industrial communication protocols for power electronic converters using ARM-based microcontrollers_", internship theme, ISEL/DEEEA/LCEC, sep.-nov. 2021\
