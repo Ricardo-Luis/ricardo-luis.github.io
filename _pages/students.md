@@ -46,8 +46,12 @@ Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa\
 [![URI](https://img.shields.io/badge/URI-Scientific%20Repository%20of%20Politécnico%20de%20Lisboa-blue?style=flat&link=http://hdl.handle.net/10400.21/5938)](http://hdl.handle.net/10400.21/5938)
 
 ---
-
 ## Former MSc students (as co-advisor)
+**Rodrigo Beato**, “Motor síncrono de relutância assistido por magnetos permanentes para sistemas de tração”, Jul. 2025\
+Mestrado em Engenharia Eletrotécnica - Ramo Energia\
+Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa\
+[![URI](https://img.shields.io/badge/URI-Scientific%20Repository%20of%20Politécnico%20de%20Lisboa-blue?style=flat&link=http://hdl.handle.net/10400.21/22691)](http://hdl.handle.net/10400.21/22691)
+
 **Derik Soares**, “Sistema produção e armazenamento de hidrogénio verde através de microrrede DC”, dez. 2024\
 Mestrado em Engenharia Eletrotécnica - Ramo Automação e Electrónica Industrial\
 Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa\
