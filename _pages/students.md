@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## Former PhD students (as co-advisor)
+## PhD students (Co-supervision)
 **Alexandre Bento**, "_Open-end Winding Synchronous Reluctance Drive based on Indirect Matrix Converter with Common-mode Voltage Reduction_", nov. 2023\
 Doutoramento em Engenharia Eletrotécnica e de Computadores\
 Instituto Superior Técnico, Universidade de Lisboa\
@@ -14,7 +14,7 @@ Instituto Superior Técnico, Universidade de Lisboa\
 
 ---
 
-## Former MSc students
+## MSc students (Supervision)
 **Mauro Fernandes**, "_Integração do sistema de armazenamento de energia por bateria para guindaste RTG diesel híbrido_", dez.2024\
 Mestrado em Engenharia Eletrotécnica - Ramo Energia\
 Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa\
@@ -46,7 +46,7 @@ Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa\
 [![URI](https://img.shields.io/badge/URI-Scientific%20Repository%20of%20Politécnico%20de%20Lisboa-blue?style=flat&link=http://hdl.handle.net/10400.21/5938)](http://hdl.handle.net/10400.21/5938)
 
 ---
-## Former MSc students (as co-advisor)
+## MSc students (Joint Supervision)
 **Rodrigo Beato**, “Motor síncrono de relutância assistido por magnetos permanentes para sistemas de tração”, Jul. 2025\
 Mestrado em Engenharia Eletrotécnica - Ramo Energia\
 Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa\
