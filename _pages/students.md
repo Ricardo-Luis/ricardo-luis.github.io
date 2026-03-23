@@ -53,7 +53,7 @@ Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa\
 [![URI](https://img.shields.io/badge/URI-Scientific%20Repository%20of%20Politécnico%20de%20Lisboa-blue?style=flat&link=http://hdl.handle.net/10400.21/22691)](http://hdl.handle.net/10400.21/22691)
 
 **Derik Soares**, “Sistema produção e armazenamento de hidrogénio verde através de microrrede DC”, dez. 2024\
-Mestrado em Engenharia Eletrotécnica - Ramo Automação e Electrónica Industrial\
+Mestrado em Engenharia Eletrotécnica - Ramo Automação e Eletrónica Industrial\
 Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa\
 [![URI](https://img.shields.io/badge/URI-Scientific%20Repository%20of%20Politécnico%20de%20Lisboa-blue?style=flat&link=http://hdl.handle.net/10400.21/22161)](http://hdl.handle.net/10400.21/22161)
 
@@ -63,12 +63,12 @@ Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa\
 [![URI](https://img.shields.io/badge/URI-Scientific%20Repository%20of%20Politécnico%20de%20Lisboa-blue?style=flat&link=http://hdl.handle.net/10400.21/17489)](http://hdl.handle.net/10400.21/17489)
 
 **Bruno Capitão**, "_Three-winding transformer with DC microgrid and active power filter_", dez. 2023\
-Mestrado em Engenharia Eletrotécnica - Ramo Automação e Electrónica Industrial\
+Mestrado em Engenharia Eletrotécnica - Ramo Automação e Eletrónica Industrial\
 Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa\
 [![URI](https://img.shields.io/badge/URI-Scientific%20Repository%20of%20Politécnico%20de%20Lisboa-blue?style=flat&link=http://hdl.handle.net/10400.21/17491)](http://hdl.handle.net/10400.21/17491)
 
 **Gonçalo Oliveira**, “_Sistema Multiagente aplicado a Infraestrutura de Carregamento de Veículos Elétricos em Microrrede DC_”, maio 2023\
-Mestrado em Engenharia Eletrotécnica - Ramo Automação e Electrónica Industrial\
+Mestrado em Engenharia Eletrotécnica - Ramo Automação e Eletrónica Industrial\
 Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa\
 [![URI](https://img.shields.io/badge/URI-Scientific%20Repository%20of%20Politécnico%20de%20Lisboa-blue?style=flat&link=http://hdl.handle.net/10400.21/16904)](http://hdl.handle.net/10400.21/16904)
 
@@ -88,7 +88,7 @@ Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa\
 [![URI](https://img.shields.io/badge/URI-Scientific%20Repository%20of%20Politécnico%20de%20Lisboa-blue?style=flat&link=http://hdl.handle.net/10400.21/2553)](http://hdl.handle.net/10400.21/2553)
 
 **Nuno Rodeia**, "_Desenvolvimento do sistema de tracção de um veículo eléctrico ecológico com travagem regenerativa_", nov. 2011\
-Mestrado em Engenharia Eletrotécnica - Ramo Automação e Electrónica Industrial\
+Mestrado em Engenharia Eletrotécnica - Ramo Automação e Eletrónica Industrial\
 Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa\
 [![URI](https://img.shields.io/badge/URI-Scientific%20Repository%20of%20Politécnico%20de%20Lisboa-blue?style=flat&link=http://hdl.handle.net/10400.21/1245)](http://hdl.handle.net/10400.21/1245)
 
