@@ -94,7 +94,7 @@ Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa\
 
 ---
 
-## Former BSc students (as co-advisor)
+## BSc students (Co-supervision)
 **José Daroeira**, **Ricardo Rodrigues**, "_WiBo – Wireless Bologne: Ferramenta de suporte a interacções na sala de aula_", Projeto e Seminário, ISEL/DEETC, mar. 2009\
 Engenharia Informática e de Computadores\
 Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa
@@ -109,7 +109,7 @@ Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa
 
 ---
 
-## Former BSc Erasmus students
+## MSc Erasmus students (Supervision)
 **Mantas Mickus**, "_Automatic Parallel supervision of synchronous generators_", ISEL/DEEA, maio 2008\
 BSc Diss. in Electrical Engineering - Automation and Control\
 Faculty of Electronics, Vilnius Gediminas Technical University
@@ -120,7 +120,7 @@ Faculty of Electronics, Vilnius Gediminas Technical University
 
 ---
 
-## Former BSc students, Erasmus traineeship
+## BSc students, Erasmus traineeship (Supervision)
 **Tomáš Pitner**, "_Implementation of control methods and industrial communication protocols for power electronic converters using ARM-based microcontrollers_", internship theme, ISEL/DEEEA/LCEC, sep.-nov. 2021\
 Power Electrical and Electronic Engineering\
 Faculty of Electrical Engineering and Communications, Brno University of Technology
