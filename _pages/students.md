@@ -73,7 +73,7 @@ Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa\
 [![URI](https://img.shields.io/badge/URI-Scientific%20Repository%20of%20Politécnico%20de%20Lisboa-blue?style=flat&link=http://hdl.handle.net/10400.21/16904)](http://hdl.handle.net/10400.21/16904)
 
 **Pedro Pereira**, "_Descarbonização e otimização energética de um navio hidrográfico através de armazenamento de energia com baterias de iões de lítio_", dez. 2022\
-Mestrado em Engenharia Eletrotécnica - Ramo Automação e Electrónica Industrial\
+Mestrado em Engenharia Eletrotécnica - Ramo Automação e Eletrónica Industrial\
 Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa\
 [![URI](https://img.shields.io/badge/URI-Scientific%20Repository%20of%20Politécnico%20de%20Lisboa-blue?style=flat&link=https://repositorio.ipl.pt/handle/10400.21/16976)](https://repositorio.ipl.pt/handle/10400.21/16976)
 
