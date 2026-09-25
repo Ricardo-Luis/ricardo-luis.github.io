@@ -47,7 +47,12 @@ Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa\
 
 ---
 ## MSc students (Joint Supervision)
-**Rodrigo Beato**, “Motor síncrono de relutância assistido por magnetos permanentes para sistemas de tração”, Jul. 2025\
+**Waldemiro Kubucama**, “Mapa de eficiência de motor síncrono de relutância (SynRM) através da análise de elementos finitos bidimensional”, dez. 2025\
+Mestrado em Engenharia Eletrotécnica - Ramo Energia\
+Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa\
+[![URI](https://img.shields.io/badge/URI-Scientific%20Repository%20of%20Politécnico%20de%20Lisboa-blue?style=flat&link=http://hdl.handle.net/10400.21/23168)](http://hdl.handle.net/10400.21/23168)
+
+**Rodrigo Beato**, “Motor síncrono de relutância assistido por magnetos permanentes para sistemas de tração”, jul. 2025\
 Mestrado em Engenharia Eletrotécnica - Ramo Energia\
 Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa\
 [![URI](https://img.shields.io/badge/URI-Scientific%20Repository%20of%20Politécnico%20de%20Lisboa-blue?style=flat&link=http://hdl.handle.net/10400.21/22691)](http://hdl.handle.net/10400.21/22691)
