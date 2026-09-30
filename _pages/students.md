@@ -15,7 +15,7 @@ Instituto Superior Técnico, Universidade de Lisboa\
 ---
 
 ## MSc students (Supervision)
-**João Paiva**, “Integração de sistemas fotovoltaico e de armazenamento de energia em fábrica de grupos eletrogéneos”, dez. 2025\
+**João Paiva**, “_Integração de sistemas fotovoltaico e de armazenamento de energia em fábrica de grupos eletrogéneos_”, dez. 2025\
 Mestrado em Engenharia Eletrotécnica - Ramo Automação e Eletrónica Industrial\
 Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa\
 [![URI](https://img.shields.io/badge/URI-Scientific%20Repository%20of%20Politécnico%20de%20Lisboa-blue?style=flat&link=http://hdl.handle.net/10400.21/23207)](http://hdl.handle.net/10400.21/23207)
@@ -52,17 +52,17 @@ Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa\
 
 ---
 ## MSc students (Joint Supervision)
-**Waldemiro Kubucama**, “Mapa de eficiência de motor síncrono de relutância (SynRM) através da análise de elementos finitos bidimensional”, dez. 2025\
+**Waldemiro Kubucama**, “_Mapa de eficiência de motor síncrono de relutância (SynRM) através da análise de elementos finitos bidimensional_”, dez. 2025\
 Mestrado em Engenharia Eletrotécnica - Ramo Energia\
 Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa\
 [![URI](https://img.shields.io/badge/URI-Scientific%20Repository%20of%20Politécnico%20de%20Lisboa-blue?style=flat&link=http://hdl.handle.net/10400.21/23168)](http://hdl.handle.net/10400.21/23168)
 
-**Rodrigo Beato**, “Motor síncrono de relutância assistido por magnetos permanentes para sistemas de tração”, jul. 2025\
+**Rodrigo Beato**, “_Motor síncrono de relutância assistido por magnetos permanentes para sistemas de tração_”, jul. 2025\
 Mestrado em Engenharia Eletrotécnica - Ramo Energia\
 Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa\
 [![URI](https://img.shields.io/badge/URI-Scientific%20Repository%20of%20Politécnico%20de%20Lisboa-blue?style=flat&link=http://hdl.handle.net/10400.21/22691)](http://hdl.handle.net/10400.21/22691)
 
-**Derik Soares**, “Sistema produção e armazenamento de hidrogénio verde através de microrrede DC”, dez. 2024\
+**Derik Soares**, “_Sistema produção e armazenamento de hidrogénio verde através de microrrede DC_”, dez. 2024\
 Mestrado em Engenharia Eletrotécnica - Ramo Automação e Eletrónica Industrial\
 Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa\
 [![URI](https://img.shields.io/badge/URI-Scientific%20Repository%20of%20Politécnico%20de%20Lisboa-blue?style=flat&link=http://hdl.handle.net/10400.21/22161)](http://hdl.handle.net/10400.21/22161)
