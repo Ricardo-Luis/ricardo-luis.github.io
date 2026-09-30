@@ -15,6 +15,11 @@ Instituto Superior Técnico, Universidade de Lisboa\
 ---
 
 ## MSc students (Supervision)
+**João Paiva**, “Integração de sistemas fotovoltaico e de armazenamento de energia em fábrica de grupos eletrogéneos”, dez. 2025\
+Mestrado em Engenharia Eletrotécnica - Ramo Automação e Eletrónica Industrial\
+Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa\
+[![URI](https://img.shields.io/badge/URI-Scientific%20Repository%20of%20Politécnico%20de%20Lisboa-blue?style=flat&link=http://hdl.handle.net/10400.21/23207)](http://hdl.handle.net/10400.21/23207)
+
 **Mauro Fernandes**, "_Integração do sistema de armazenamento de energia por bateria para guindaste RTG diesel híbrido_", dez.2024\
 Mestrado em Engenharia Eletrotécnica - Ramo Energia\
 Instituto Superior de Engenharia de Lisboa, Politécnico de Lisboa\
